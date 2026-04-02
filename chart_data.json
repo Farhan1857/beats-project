@@ -1,0 +1,165 @@
+{
+  "Analysis 1a: Age Distribution of Respondents": {
+    "chartTitle": "Age Distribution of Respondents",
+    "xAxisLabel": "Age Group",
+    "yAxisLabel": "Count",
+    "data": [
+      { "label": "Under 18", "value": 146, "percentage": "4.2%" },
+      { "label": "18-24", "value": 2356, "percentage": "68.4%" },
+      { "label": "25-34", "value": 627, "percentage": "18.2%" },
+      { "label": "35-44", "value": 140, "percentage": "4.1%" },
+      { "label": "45-54", "value": 120, "percentage": "3.5%" },
+      { "label": "55-64", "value": 49, "percentage": "1.4%" },
+      { "label": "65 and over", "value": 8, "percentage": "0.2%" }
+    ],
+    "caption": "The sample skews heavily toward 18–24-year-olds (~68%), so findings reflect Gen Z preferences most strongly unless segmented."
+  },
+
+
+  "Analysis 1b: Gender Distribution of Respondents": {
+    "chartTitle": "Gender Distribution of Respondents",
+    "xAxisLabel": "Gender",
+    "yAxisLabel": "Count",
+    "data": [
+      { "label": "Female", "value": 1784, "percentage": "51.8%" },
+      { "label": "Male", "value": 1570, "percentage": "45.6%" },
+      { "label": "Non-binary / Third gender", "value": 46, "percentage": "1.3%" },
+      { "label": "Prefer not to say", "value": 46, "percentage": "1.3%" }
+    ],
+    "caption": "Respondents are broadly gender-balanced (≈52% female, ≈46% male), reducing the risk that results are driven by a single-gender skew."
+  },
+
+  "Analysis 1c: Annual Household Income Distribution of Respondents": {
+    "chartTitle": "Annual Household Income Distribution of Respondents",
+    "xAxisLabel": "Annual Household Income",
+    "yAxisLabel": "Count",
+    "data": [
+      { "label": "Less than $25,000", "value": 795, "percentage": "23.1%" },
+      { "label": "$25,000–$50,000", "value": 496, "percentage": "14.4%" },
+      { "label": "$50,000–$75,000", "value": 354, "percentage": "10.3%" },
+      { "label": "$75,000–$100,000", "value": 281, "percentage": "8.2%" },
+      { "label": "More than $100,000", "value": 486, "percentage": "14.1%" },
+      { "label": "Prefer not to say", "value": 1034, "percentage": "30.0%" }
+    ],
+  "caption": "Income skews lower and 30% prefer not to disclose, but there is still a meaningful $100k+ segment (~14%) that aligns with premium purchase intent."
+},
+
+"Chart 1: Usage Frequency — How Often Speakers Are Used": {
+    "chartTitle": "Usage Frequency — How Often Speakers Are Used",
+    "xAxisLabel": "Usage Frequency",
+    "yAxisLabel": "Respondents",
+    "data": [
+      { "label": "Daily", "value": 1025, "percentage": "29.7%" },
+      { "label": "Several times a week", "value": 1166, "percentage": "33.8%" },
+      { "label": "Once a week", "value": 381, "percentage": "11.1%" },
+      { "label": "1-3 times a month", "value": 468, "percentage": "13.6%" },
+      { "label": "Rarely (fewer than once a month)", "value": 406, "percentage": "11.8%" }
+    ],
+    "caption": "Engagement is high: 63.6% use speakers daily or several times/week; these power users comprise 76.5% of high-intent buyers."
+  },
+
+  "Chart 2: Purchase Intent (Next 12 Months) — Distribution": {
+    "chartTitle": "Purchase Intent (Next 12 Months) — Distribution",
+    "xAxisLabel": "Likelihood (1 = Very Unlikely, 5 = Very Likely)",
+    "yAxisLabel": "Respondents",
+    "data": [
+      { "label": "1", "value": 1191, "percentage": "34.6%" },
+      { "label": "2", "value": 799, "percentage": "23.2%" },
+      { "label": "3", "value": 734, "percentage": "21.3%" },
+      { "label": "4", "value": 386, "percentage": "11.2%" },
+      { "label": "5", "value": 336, "percentage": "9.8%" }
+    ],
+    "caption": "Near-term demand exists but is concentrated: 21.0% are likely (4–5) to buy within 12 months; focus launch on high-intent segments."
+  },
+
+  "Chart 3: Sound Quality Rating Distribution": {
+    "chartTitle": "Sound Quality Rating Distribution",
+    "xAxisLabel": "Sound Quality Rating",
+    "yAxisLabel": "Respondents",
+    "data": [
+      { "label": "Very Poor", "value": 9, "percentage": "0.3%" },
+      { "label": "Poor", "value": 47, "percentage": "1.4%" },
+      { "label": "Average", "value": 510, "percentage": "14.8%" },
+      { "label": "Good", "value": 1742, "percentage": "50.6%" },
+      { "label": "Excellent", "value": 1138, "percentage": "33.0%" }
+    ],
+    "caption": "Most users rate current speaker sound as Good or better (83.6%), but a sizable 'Average' segment (14.8%) indicates room for an audible, premium step-up in fidelity."
+  },
+
+  "Chart 4: Feature Importance Ranking (Lower = More Important)": {
+    "chartTitle": "Feature Importance Ranking (Lower = More Important)",
+    "xAxisLabel": "Average Rank (1 = Most Important, 6 = Least Important)",
+    "yAxisLabel": "Feature",
+    "data": [
+      { "label": "Sound quality", "value": 3.427 },
+      { "label": "Durability", "value": 3.457 },
+      { "label": "Design / Looks", "value": 3.475 },
+      { "label": "Connectivity", "value": 3.532 },
+      { "label": "Battery life", "value": 3.535 },
+      { "label": "Price", "value": 3.574 }
+    ],
+    "caption": "Across consumers, Sound Quality ranks as the top priority; durability and battery are key table-stakes, so a hi-fi Beats speaker should lead with audio performance while meeting reliability basics."
+  },
+
+  "Chart 5: Price Paid (Spend Distribution)": {
+    "chartTitle": "Price Paid (Spend Distribution)",
+    "xAxisLabel": "Price Paid (USD)",
+    "yAxisLabel": "Respondents",
+    "data": [
+      { "label": "Less than $50", "value": 1090, "percentage": "31.6%" },
+      { "label": "$50 to $100", "value": 1198, "percentage": "34.8%" },
+      { "label": "$100 to $200", "value": 805, "percentage": "23.4%" },
+      { "label": "$200 to $300", "value": 241, "percentage": "7.0%" },
+      { "label": "More than $300", "value": 112, "percentage": "3.3%" }
+    ],
+    "caption": "Most purchases cluster in $50–$200 (58.1%), but there is a premium tail ($200+ = 10.2%) that supports a flagship price when targeted to premium-ready segments."
+  },
+
+  "Chart 6: High Purchase Intent Rate (4-5) by Household Income": {
+    "chartTitle": "High Purchase Intent Rate (4-5) by Household Income",
+    "xAxisLabel": "Annual Household Income",
+    "yAxisLabel": "High Intent Share (%)",
+    "data": [
+      { "label": "Less than $25,000", "value": 26.7, "percentage": "26.7%", "baseN": 795 },
+      { "label": "$25,000-$50,000", "value": 22.0, "percentage": "22.0%", "baseN": 496 },
+      { "label": "$50,000-$75,000", "value": 23.7, "percentage": "23.7%", "baseN": 354 },
+      { "label": "$75,000-$100,000", "value": 24.6, "percentage": "24.6%", "baseN": 281 },
+      { "label": "More than $100,000", "value": 16.9, "percentage": "16.9%", "baseN": 486 },
+      { "label": "Prefer not to say", "value": 16.1, "percentage": "16.1%", "baseN": 1034 }
+    ],
+    "caption": "Likelihood to buy is strongest among premium-ready households; use income targeting to support a higher MSRP without anchoring pricing on the most price-sensitive segments."
+  },
+
+  "Chart 7: Purchase Channel Preference": {
+    "chartTitle": "Purchase Channel Preference",
+    "xAxisLabel": "Respondents",
+    "yAxisLabel": "Purchase Channel",
+    "data": [
+      { "label": "Large multi-brand stores", "value": 1563, "percentage": "45.4%" },
+      { "label": "Multi-brand electronics stores", "value": 718, "percentage": "20.8%" },
+      { "label": "Department stores", "value": 628, "percentage": "18.2%" },
+      { "label": "Brand websites", "value": 466, "percentage": "13.5%" },
+      { "label": "Other", "value": 71, "percentage": "2.1%" }
+    ],
+    "caption": "Consumers prefer buying through large multi-brand retailers (especially online); launch should be digital-first with select retail partners for demos and credibility."
+  },
+
+  "Chart 8: Competitive Penetration — Top Speaker Brands Owned/Used": {
+    "chartTitle": "Competitive Penetration — Top Speaker Brands Owned/Used",
+    "xAxisLabel": "Mentions (tokenized responses)",
+    "yAxisLabel": "Brand",
+    "data": [
+      { "label": "['JBL']", "value": 948, "percentage": "16.7%" },
+      { "label": "['Bose'", "value": 921, "percentage": "16.2%" },
+      { "label": " 'Sony']", "value": 674, "percentage": "11.8%" },
+      { "label": "['Other']", "value": 507, "percentage": "8.9%" },
+      { "label": " 'JBL'", "value": 467, "percentage": "8.2%" },
+      { "label": "['JBL'", "value": 437, "percentage": "7.7%" },
+      { "label": " 'JBL']", "value": 306, "percentage": "5.4%" },
+      { "label": " 'Other']", "value": 229, "percentage": "4.0%" },
+      { "label": "['Bose']", "value": 184, "percentage": "3.2%" },
+      { "label": " 'Samsung']", "value": 174, "percentage": "3.1%" }
+    ],
+    "caption": "Current ownership/usage is dominated by JBL and Bose; Beats should benchmark against JBL for mass-market scale and Bose for premium credibility, and win via verified performance proof (reviews, comparisons, demos)."
+  }
+}
