@@ -76,14 +76,14 @@ This project analyzes ~5000 wireless speaker reviews to:
 
 ## 📊 Interactive Dashboard
 
-This project includes an interactive dashboard built to explore:
+This project also includes an interactive dashboard built with Claude, by feeding it JSON data, to explore:
 
 - Sentiment distribution across brands  
 - Rating comparisons  
 - Feature-level insights  
+- Selling Channels
 
-👉 [View Live Dashboard]([YOUR_LINK_HERE](https://claude.ai/public/artifacts/d26b74ea-f5cf-482d-9754-73e809bc378f))
-
+👉 [View Live Dashboard](https://claude.ai/public/artifacts/d26b74ea-f5cf-482d-9754-73e809bc378f)
 
 ## 💡 Final Recommendation
 
