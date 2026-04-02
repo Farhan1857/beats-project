@@ -74,7 +74,15 @@ This project analyzes ~5000 wireless speaker reviews to:
 * **Bose** → Best for balanced, refined audio
 * **Sony** → Best for customization & controls
 
+## 📊 Interactive Dashboard
 
+This project includes an interactive dashboard built to explore:
+
+- Sentiment distribution across brands  
+- Rating comparisons  
+- Feature-level insights  
+
+👉 [View Live Dashboard]([dashboard](https://claude.ai/public/artifacts/d26b74ea-f5cf-482d-9754-73e809bc378f))
 
 
 ## 💡 Final Recommendation
