@@ -2,7 +2,7 @@
 
 *A data-driven look at how Beats can compete — and win — in a crowded market*
 
----
+
 
 ## 🎬 The Story Behind This Project
 
@@ -23,7 +23,7 @@ it’s about understanding **what customers actually care about**.
 
 So instead of guessing, I analyzed **real customer reviews at scale**.
 
----
+
 
 ## 🧠 What This Project Does
 
@@ -34,7 +34,7 @@ This project analyzes ~1000 wireless speaker reviews to:
 * Extract customer sentiment and expectations
 * Generate actionable product recommendations
 
----
+
 
 ## 🔍 Approach (High-Level)
 
@@ -44,7 +44,7 @@ This project analyzes ~1000 wireless speaker reviews to:
 * **Visualization** → Matplotlib, Seaborn
 * **AI Insights** → Gemini (feature-level & competitive analysis)
 
----
+
 
 ## 🔥 Key Insights
 
@@ -55,7 +55,7 @@ This project analyzes ~1000 wireless speaker reviews to:
 * Clear, punchy sound at low–mid volume
 * High perceived value
 
----
+
 
 ### ⚠️ Where Beats Falls Behind
 
@@ -63,7 +63,7 @@ This project analyzes ~1000 wireless speaker reviews to:
 * Sound quality drops at higher volume
 * Limited customization
 
----
+
 
 ### 🥊 Competitive Positioning
 
@@ -71,7 +71,6 @@ This project analyzes ~1000 wireless speaker reviews to:
 * **Bose** → Best for balanced, refined audio
 * **Sony** → Best for customization & controls
 
----
 
 ## 💡 Final Recommendation
 
@@ -83,7 +82,7 @@ This project analyzes ~1000 wireless speaker reviews to:
 2. Improve **high-volume sound performance**
 3. Expand **cross-platform (Android) experience**
 
----
+
 
 ## 📊 Outcome
 
@@ -91,23 +90,25 @@ This project analyzes ~1000 wireless speaker reviews to:
 
 This project supports a **Go-to-Market decision backed by real customer data**.
 
----
+
 
 ## 🛠️ Tech Stack
 
 * Python (Pandas, NumPy)
+* Excel
 * Matplotlib & Seaborn
 * TextBlob (Sentiment Analysis)
 * Google Gemini API
+* Claude 
 
----
+
 
 ## ⚠️ Note
 
 Dataset not included due to privacy restrictions.
 All analysis steps and insights are reproducible.
 
----
+
 
 ## 🎯 Why This Project Matters
 
@@ -115,11 +116,11 @@ All analysis steps and insights are reproducible.
 * Real-world product strategy problem
 * Combines **data + AI + business insights**
 
----
+
 
 ## 👋 Closing Thought
 
-Customer reviews aren’t just feedback —
+Customer reviews aren’t just feedback -
 they’re a blueprint for better products.
 
----
+
