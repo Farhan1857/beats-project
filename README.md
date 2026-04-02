@@ -28,7 +28,7 @@ So instead of guessing, I analyzed **real customer reviews at scale**.
 
 ## 🧠 What This Project Does
 
-This project analyzes ~10000 wireless speaker reviews to:
+This project analyzes ~5000 wireless speaker reviews to:
 
 * Compare Beats against key competitors
 * Identify strengths, weaknesses, and trends
