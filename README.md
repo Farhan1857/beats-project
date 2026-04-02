@@ -1,6 +1,6 @@
 # 🎧 Beats Wireless Speaker Market Analysis
 
-*A data-driven look at how Beats can compete — and win — in a crowded market*
+*A data-driven look at how Beats can compete and win in a crowded market*
 
 
 
@@ -10,7 +10,7 @@ Imagine you're in a product strategy meeting at Beats.
 
 The question on the table:
 
-> *“Should we launch a new wireless speaker — and if so, how do we compete?”*
+> *“Should we launch a new wireless speaker, and if so, how do we compete?”*
 
 The market is already dominated by strong players:
 
@@ -18,16 +18,17 @@ The market is already dominated by strong players:
 * Bose → refined sound quality
 * Sony → customization and features
 
-Breaking in isn’t just about building a good product —
+Breaking in isn’t just about building a good product -
 it’s about understanding **what customers actually care about**.
 
 So instead of guessing, I analyzed **real customer reviews at scale**.
 
 
 
+
 ## 🧠 What This Project Does
 
-This project analyzes ~1000 wireless speaker reviews to:
+This project analyzes ~10000 wireless speaker reviews to:
 
 * Compare Beats against key competitors
 * Identify strengths, weaknesses, and trends
@@ -36,13 +37,15 @@ This project analyzes ~1000 wireless speaker reviews to:
 
 
 
+
 ## 🔍 Approach (High-Level)
 
-* **Data Cleaning & Preparation** → Pandas, NumPy
+* **Data Cleaning & Preparation** → Excel, Pandas, NumPy
 * **Exploratory Analysis (EDA)** → ratings, distributions, patterns
 * **Sentiment Analysis** → TextBlob (polarity & subjectivity)
 * **Visualization** → Matplotlib, Seaborn
-* **AI Insights** → Gemini (feature-level & competitive analysis)
+* **AI Insights** → Claude, Gemini (dashborads, feature-level & competitive analysis)
+
 
 
 
@@ -72,9 +75,11 @@ This project analyzes ~1000 wireless speaker reviews to:
 * **Sony** → Best for customization & controls
 
 
+
+
 ## 💡 Final Recommendation
 
-👉 **Beats should enter/expand in this market — with targeted improvements**
+👉 **Beats should enter/expand in this market - with targeted improvements**
 
 ### Key Actions:
 
