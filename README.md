@@ -82,7 +82,7 @@ This project includes an interactive dashboard built to explore:
 - Rating comparisons  
 - Feature-level insights  
 
-👉 [View Live Dashboard]([dashboard](https://claude.ai/public/artifacts/d26b74ea-f5cf-482d-9754-73e809bc378f))
+👉 [View Live Dashboard]([YOUR_LINK_HERE](https://claude.ai/public/artifacts/d26b74ea-f5cf-482d-9754-73e809bc378f))
 
 
 ## 💡 Final Recommendation
